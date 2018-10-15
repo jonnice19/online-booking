@@ -1,0 +1,42 @@
+{
+  "roomTypes": [
+    {
+      "id": 1,
+      "name": "Deluxe"
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Triple"
+    },
+    {
+      "id": 3,
+      "name": "Standard"
+    },
+    {
+      "id": 4,
+      "name": "Standard Triple"
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Deluxe",
+      "price": 5800,
+      "available": 2,
+      "adult": 5,
+      "children": 2,
+      "beds": "Single Beds",
+      "deposit": true
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Triple",
+      "price": 6200,
+      "available": 2,
+      "adult": 6,
+      "children": 3,
+      "beds": "King-sized Beds",
+      "deposit": false
+    }
+  ]
+}
